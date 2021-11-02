@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=purplecabbage&show_icons=true&theme=cobalt" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=purplecabbage&theme=cobalt" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=purplecabbage&show_icons=true&theme=nightowl" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=purplecabbage&theme=nightowl" />
 </p>
 
 #### How to reach me:
