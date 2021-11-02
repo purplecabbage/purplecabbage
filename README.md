@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+  <a href="https://github.com/purplecabbage?tab=followers">
+    <img src="https://img.shields.io/github/followers/purplecabbage?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/purplecabbage">
+    <img src="https://img.shields.io/twitter/follow/purplecabbage?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+</p>
+
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=purplecabbage&show_icons=true&theme=cobalt" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=purplecabbage&theme=cobalt" />
+</p>
+
+#### How to reach me:
+
+- https://twitter.com/purplecabbage
+
+<br/>
+
